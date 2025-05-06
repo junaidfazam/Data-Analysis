@@ -9,7 +9,7 @@ It contains topic-wise **notes**, **code snippets**, and **practical examples** 
 - **NumPy for Data Analysis**
 - **Pandas - Series for Data Analysis**
 
-(Upcoming topics: pandas Series)
+(Upcoming topics: pandas Dataframes)
 
 ## 🎯 Goals
 
