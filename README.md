@@ -7,6 +7,7 @@ It contains topic-wise **notes**, **code snippets**, and **practical examples** 
 ## 📚 Topics Covered
 
 - **NumPy for Data Analysis**
+- **Pandas - Series for Data Analysis**
 
 (Upcoming topics: pandas Series)
 
